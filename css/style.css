@@ -1,0 +1,31 @@
+.container {
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    
+    height: 200px;
+    background: teal;
+
+}
+
+.container-text {
+    padding-left: 10%;
+    padding-top: 10%;
+    font-family: Orbitron;
+    font-size: 100px;
+    font-weight: 700;
+    color: white;
+}
+
+#trigger {
+    width: 200px;
+    height: 60px;
+    margin-right: auto;
+    margin-left: 600px;
+    background: olivedrab;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
